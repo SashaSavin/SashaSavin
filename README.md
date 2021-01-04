@@ -9,7 +9,7 @@ Telegram: @funnymagnett <br>
 Gmail: alexsavin277@gmail.com <br>
 Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
-About:
+About:<br>
 - 🔭 I’m currently working on freelance<br>
 - 🌱 I’m currently learning ..some features of react, ts and huskell(for myself :3)<br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer<br>
