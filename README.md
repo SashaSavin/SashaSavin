@@ -5,9 +5,9 @@ Web developer with 3 years of commercial exp <br>
 *Open to new suggestions as FE developer*
 
 Connect with me:
-telegram: @funnymagnett
-mail: alexsavin277@gmail.com
-linkedin: www.linkedin.com/in/al-savin
+telegram: @funnymagnett <br>
+mail: alexsavin277@gmail.com <br>
+linkedin: www.linkedin.com/in/al-savin <br>
 
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning react
