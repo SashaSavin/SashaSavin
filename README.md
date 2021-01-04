@@ -18,8 +18,9 @@ About:<br>
 - 📫 How to reach me: write me on tg<br>
 - ⚡ Fun fact: sphynx cat lover<br>
 <hr>
-Graphics: <br>
+Graphics:
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=SashaSavin&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
