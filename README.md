@@ -10,7 +10,7 @@ Gmail: alexsavin277@gmail.com <br>
 Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
 - 🔭 I’m currently working on freelance<br>
-- 🌱 I’m currently learning ..some features of react<br>
+- 🌱 I’m currently learning ..some features of react, ts<br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer<br>
 - 💬 Ask me about old movies<br>
 - 📫 How to reach me: write me on tg<br>
