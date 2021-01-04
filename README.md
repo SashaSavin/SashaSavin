@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Alex Savin
-Web developer with 3 years of commercial exp
+I am Alex Savin <br>
+Web developer with 3 years of commercial exp <br>
 *Open to new suggestions as FE developer*
 
 Connect with me:
