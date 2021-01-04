@@ -3,12 +3,12 @@
 I am Alex Savin <br>
 Web developer with 3 years of commercial exp <br>
 *Open to new suggestions as FE developer*
-
+<hr>
 Connect with me:
 Telegram: @funnymagnett <br>
 Gmail: alexsavin277@gmail.com <br>
 Linkedin: www.linkedin.com/in/al-savin <br>
-
+<hr>
 - 🔭 I’m currently working on freelance
 - 🌱 I’m currently learning ..some features of react
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer
