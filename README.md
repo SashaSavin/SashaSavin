@@ -18,3 +18,9 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SashaSavin&column=3&margin-w=15&margin-h=15theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SashaSavin&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaSavin)](https://github.com/anuraghazra/github-readme-stats)
