@@ -14,7 +14,7 @@ About:<br>
 - 🌱 I’m currently learning ..some features of react, ts and huskell(for myself :3)<br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer<br>
 - 👯 also looking to soulmates for english practice(b2+)<br>
-- 💬 Ask me about old movies and paintings <br>
+- 💬 Ask me about heavy metal <br>
 - 📫 How to reach me: write me on tg<br>
 - ⚡ Fun fact: sphynx cat lover<br>
 <hr>
