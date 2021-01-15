@@ -1,4 +1,4 @@
-### Hi there 👋👋👋👋
+### Hi there 👋👋👋
 
 I am Alex Savin | アレクサンドルサビン <br>
 Web developer with 3 years of commercial exp <br>
