@@ -1,7 +1,5 @@
 ### Hi there 👋👋👋
 
-![Imgur Image](https://i.imgur.com/3k23b03.gif)
-
 
 I am Alex Savin | アレクサンドルサビン <br>
 Web developer with 3 years of commercial exp <br>
@@ -32,4 +30,7 @@ Graphics:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaSavin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Imgur Image](https://i.imgur.com/3k23b03.gif)
+
 
