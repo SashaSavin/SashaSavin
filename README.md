@@ -30,7 +30,7 @@ Graphics:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaSavin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr>
 ![Imgur Image](https://i.imgur.com/3k23b03.gif)
 
 
