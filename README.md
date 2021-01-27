@@ -18,7 +18,7 @@ About:<br>
 - 💬 Ask me about heavy metal <br>
 - 💬 Dont ask me about OOP pluses :D  <br>
 - 📫 How to reach me: write me on tg<br>
-- ⚡ Fun fact: sphynx cat lover<br>
+- ⚡ Fun fact: sphynx cat lover <br>
 <hr>
 Graphics:
 <br>
