@@ -19,7 +19,7 @@ About:<br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer<br>
 - 👯 also looking to soulmates for english practice(b2+)<br>
 - 💬 Ask me about heavy metal <br>
-- 💬 Dont ask me about OOP pluses :D  <br>
+- 💬 Dont ask me about OOP advantages  :D  <br>
 - 📫 How to reach me: write me on tg<br>
 - ⚡ Fun fact: sphynx cat lover <br>
 <hr>
