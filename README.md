@@ -24,7 +24,7 @@ About:<br>
 Graphics:
 <br>
 
-![Codewars](https://www.codewars.com/users/Breadfinger123/badges/large)
+![Codewars](https://www.codewars.com/users/Breadfinger123/badges/micro)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SashaSavin&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
