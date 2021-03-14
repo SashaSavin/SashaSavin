@@ -34,4 +34,5 @@ Graphics:
 
 ![Imgur Image](https://i.imgur.com/3k23b03.gif)
 
+![Codewars](https://www.codewars.com/users/Breadfinger123/badges/large)
 
