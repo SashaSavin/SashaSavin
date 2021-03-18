@@ -25,7 +25,6 @@ About:<br>
 Graphics:
 <br>
 
-![Codewars](https://www.codewars.com/users/al-25/badges/large)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SashaSavin&column=3&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -34,6 +33,8 @@ Graphics:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaSavin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://www.codewars.com/users/al-25/badges/large)
 
 ![Imgur Image](https://i.imgur.com/3k23b03.gif)
 
