@@ -3,18 +3,17 @@
 I am Alexadner Savin | アレクサンドルサビン <br>
 
 
-
 Web developer with 3 years of commercial exp <br>
 *Open to new suggestions as FE developer*
 <hr>
 Connect with me:<br>
 Telegram: @funnymagnett <br>
-Gmail: alexsavin277@gmail.com <br>
+G-mail: alexsavin277@gmail.com <br>
 Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
 About:<br>
 - 🔭 I’m currently working on freelance<br>
-- 🌱 I’m currently learning ..some features of react, ts and huskell(for myself :3)<br>
+- 🌱 I’m currently learning react + ts, redux <br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer<br>
 - 👯 also looking to soulmates for english practice(b2+)<br>
 - 💬 Ask me about stackoverflow driven development <br>
