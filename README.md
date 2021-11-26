@@ -13,7 +13,7 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
 About:<br>
 - 🔭 I’m currently working on freelance<br>
-- 🌱 I’m currently learning react + ts, redux <br>
+- 🌱 I’m currently learning ts, redux, redux-thunk <br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer(react)<br>
 - 👯 also looking to soulmates for english practice(b2+)<br>
 - 💬 Ask me about stackoverflow driven development <br>
