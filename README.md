@@ -1,7 +1,7 @@
 ### Hi there 👋👋👋
 
 # I am Alexadner Savin | アレクサンドルサビン <br> #
-## web developer
+## Web Developer
 
 Over then 3 years of commercial exp <br>
 *Open to new suggestions as FE(React) developer*
