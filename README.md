@@ -2,6 +2,9 @@
 
 
 # I am Alexadner Savin | アレクサンドルサビン <br> #
+
+![Imgur Image](https://i.imgur.com/3k23b03.gif)
+
 ## Web Developer
 
 (Over then 3 years of commercial exp) <br>
@@ -37,7 +40,6 @@ Graphics:
 
 ![Codewars](https://www.codewars.com/users/al-25/badges/large)
 
-![Imgur Image](https://i.imgur.com/3k23b03.gif)
 
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/SashaSavin/SashaSavin/blob/main/github-metrics.svg)
