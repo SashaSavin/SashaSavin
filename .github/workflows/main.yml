@@ -449,7 +449,7 @@
 
 
 name: Metrics
- 
+ on: [push]
 jobs:
  check:
    name: metrics-action
