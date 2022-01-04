@@ -450,8 +450,6 @@
 
 name: Metrics
  
-on: [push] # запускаем при каждой выгрузке в репозиторий
- 
 jobs:
  check:
    name: metrics-action
