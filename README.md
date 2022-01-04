@@ -3,7 +3,6 @@
 # I am Alexadner Savin | アレクサンドルサビン <br> #
 ## Web Developer
 
-
 (Over then 3 years of commercial exp) <br>
 **Open to new suggestions as FE(React) developer**
 <hr>
