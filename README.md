@@ -34,10 +34,7 @@ Graphics:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SashaSavin&column=3&margin-w=15&margin-h=15&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SashaSavin&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaSavin&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Codewars](https://www.codewars.com/users/al-25/badges/large)
 
