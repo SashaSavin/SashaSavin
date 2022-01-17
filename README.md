@@ -17,13 +17,13 @@ G-mail: alexsavin277@gmail.com <br>
 Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
 About:<br>
-- 🔭 I’m currently working on freelance<br>
-- 🌱 I’m currently learning ts, redux, redux-thunk <br>
+- 🔭 I’m currently working <br>
+- 🌱 I’m currently learning as FE - ts, redux, redux-thunk, as Backend - Go & vim <br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer(react)<br>
 - 👯 also looking to soulmates for english practice(b2+)<br>
 - 💬 Ask me about stackoverflow driven development <br>
-- 💬 Dont ask me about OOP advantages  :D  <br>
-- 📫 How to reach me: write me on tg<br>
+- 💬 Dont ask me about OOP advantages  (joke)  <br>
+- 📫 How to reach me: write me on tg:@funnymagnett<br>
 - ⚡ Fun fact: sphynx cat lover <br>
 
 <hr>
