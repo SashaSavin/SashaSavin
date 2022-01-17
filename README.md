@@ -20,9 +20,9 @@ About:<br>
 - 🔭 I’m currently working <br>
 - 🌱 I’m currently learning: as FE - ts, redux, redux-thunk, as Backend - Golang & vim <br>
 - 👯 I'm looking to collaborate on an interesting project as a front-end developer(react)<br>
-- 👯 also looking to soulmates for english practice(b2+)<br>
+- 👯 also i'm looking for mates to improve our speaking & writing in English (b2+)<br>
 - 💬 Ask me about stackoverflow driven development <br>
-- 💬 Dont ask me about OOP advantages  (joke)  <br>
+- 💬 Dont ask me about OOP advantages  (joke, but...)  <br>
 - 📫 How to reach me: write me on tg:@funnymagnett<br>
 - ⚡ Fun fact: sphynx cat lover <br>
 
