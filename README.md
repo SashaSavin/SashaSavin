@@ -6,17 +6,20 @@
 
 ![Imgur Image](https://i.imgur.com/3k23b03.gif)
 
-## Web Developer
+## Web Developer exp:
 
 (Over then 3 years of commercial exp) <br>
 **Open to new suggestions as FE(React) developer**
 <hr>
-Connect with me:<br>
+
+## Connect with me:<br>
+
 Telegram: @funnymagnett <br>
 G-mail: alexsavin277@gmail.com <br>
 Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
-About:<br>
+
+## About:<br>
 - 🔭 I’m currently working <br>
 - 🌱 I’m currently learning: FE - ts, redux, redux-thunk, Backend - Golang & vim <br>
 - 👯 I'm looking to collaborate on interesting project as front-end developer(react) or as Gopher<br>
@@ -27,7 +30,7 @@ About:<br>
 - ⚡ Fun fact: sphynx cat lover <br>
 
 <hr>
-Graphics:
+## Graphics:
 <br>
 
 
