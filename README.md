@@ -5,7 +5,7 @@
 # I am Alex Savin | アレクサンドルサビン <br> #
 
 ![Imgur Image](https://i.imgur.com/3k23b03.gif)
-
+![Imgur Image](https://imgur.com/7K1QkRK.gif)
 ## Web Developer exp:
 
 (Over then 3 years of commercial exp) <br>
