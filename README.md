@@ -2,7 +2,7 @@
 
 ### Hi there 👋👋👋
 
-# I am Alexadner Savin | アレクサンドルサビン <br> #
+# I am Alex Savin | アレクサンドルサビン <br> #
 
 ![Imgur Image](https://i.imgur.com/3k23b03.gif)
 
@@ -18,8 +18,8 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
 About:<br>
 - 🔭 I’m currently working <br>
-- 🌱 I’m currently learning: as FE - ts, redux, redux-thunk, as Backend - Golang & vim <br>
-- 👯 I'm looking to collaborate on an interesting project as a front-end developer(react)<br>
+- 🌱 I’m currently learning: FE - ts, redux, redux-thunk, Backend - Golang & vim <br>
+- 👯 I'm looking to collaborate on interesting project as front-end developer(react) or as Gopher<br>
 - 👯 also i'm looking for mates to improve our speaking & writing in English (b2+)<br>
 - 💬 Ask me about stackoverflow driven development <br>
 - 💬 Dont ask me about OOP advantages  (joke, but...)  <br>
