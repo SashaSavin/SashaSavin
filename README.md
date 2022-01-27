@@ -21,8 +21,7 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
 
 ## About:<br>
-- 🔭 I’m currently working <br>
-- 🌱 I’m currently learning: FE - ts, redux, redux-thunk, Backend - Golang & vim <br>
+- 🌱 I’m currently learning: FE - ts, redux, redux-thunk, Backend - Golang <br>
 - 👯 I'm looking to collaborate on interesting project as front-end developer(react) or as Gopher<br>
 - 👯 also i'm looking for mates to improve our speaking & writing in English (b2+)<br>
 - 💬 Ask me about stackoverflow driven development <br>
