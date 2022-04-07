@@ -4,7 +4,7 @@
 
 # I am Alex Savin | アレクサンドルサビン <br> #
 
-![Imgur Image](https://imgur.com/7K1QkRK.gif)
+![Imgur Image](https://imgur.com/16vUZCk)
 
 ## Web Developer exp:
 
