@@ -3,7 +3,6 @@
 
 # I am Alex Savin | アレクサンドルサビン <br> #
 
-
 ![Imgur Image](https://imgur.com/jCobnMo.gif)
 
 ## Web Developer exp:
