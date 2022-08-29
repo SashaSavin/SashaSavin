@@ -13,7 +13,6 @@
 **Open to new suggestions**
 <hr>
 
-
 ## Connect with me:<br>
 
 Telegram: @funnymagnett <br>
