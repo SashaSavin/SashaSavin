@@ -5,13 +5,6 @@
 
 ![Imgur Image](https://imgur.com/jCobnMo.gif)
 
-
-## Web Developer exp:
-
-(Over then 3 years of commercial exp) <br>
-**Open to new suggestions**
-<hr>
-
 ## Connect with me:<br>
 
 Telegram: @funnymagnett <br>
@@ -20,7 +13,7 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
 
 ## About:<br>
-- 🌱 I’m currently learning: FE - ts, redux, redux-thunk, Backend - Golang <br>
+- 🌱 I’m currently learning: FE - ts Backend - Golang <br>
 - 👯 I'm looking to collaborate on interesting project as front-end developer(react) or as Gopher<br>
 - 👯 also i'm looking for mates to improve our speaking & writing in English (b2+)<br>
 - 💬 Ask me about stackoverflow driven development <br>
