@@ -1,5 +1,5 @@
 
-### Hi there 👋👋👋
+### 👋👋👋
 
 
 # I am Alex Savin | アレクサンドルサビン <br> #
