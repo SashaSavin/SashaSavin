@@ -20,13 +20,12 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 - ⚡ Fun fact: sphynx cat lover <br>
 <hr>
 
-## Graphics & achievments:<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SashaSavin&column=3&margin-w=15&margin-h=15&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/SashaSavin/SashaSavin/blob/main/github-metrics.svg)
 
+## Graphics & achievments:<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SashaSavin&column=3&margin-w=15&margin-h=15&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
  ![](https://komarev.com/ghpvc/?username=SashaSavin&style=flat-square)
  ![Codewars](https://www.codewars.com/users/al-25/badges/large)
