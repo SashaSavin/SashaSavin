@@ -1,9 +1,6 @@
 
 ### 👋👋👋
 
-
-# I am Alex Savin | アレクサンドルサビン <br> #
-
 ## Connect with me:<br>
 
 Telegram: @funnymagnett <br>
