@@ -32,4 +32,5 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 <img src="https://github.com/SashaSavin/SashaSavin/blob/master/github-metrics.svg" alt="Metrics" width="100%">
 
  ![](https://komarev.com/ghpvc/?username=SashaSavin&style=flat-square)
-
+ 
+<img height="157px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SashaSavin&hide=VBScript&hide_border=true&layout=compact&langs_count=8&theme=algolia"/>
