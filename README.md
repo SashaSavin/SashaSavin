@@ -21,7 +21,6 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 - 🐈 Fun fact: sphynx cat lover <br>
 <hr>
 
-<!-- If you're using "main" as default branch -->
 ![Metrics](https://github.com/SashaSavin/SashaSavin/blob/main/github-metrics.svg)
 
 ## Graphics & achievments:<br>
