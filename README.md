@@ -15,8 +15,8 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 
 ## About:<br>
 - 👯 I'm looking to collaborate on interesting project as React developer or Gopher<br>
-- 👯 also i'm looking for mates to improve English skills<br>
-- 💬 Ask me about stackoverflow driven development <br>
+- ❤️ also i'm looking for mates to improve English skills<br>
+- 📖 Ask me about stackoverflow driven development <br>
 - 💬 Dont ask me about OOP advantages  (joke, but...)  <br>
 - ⚡ Fun fact: sphynx cat lover <br>
 <hr>
