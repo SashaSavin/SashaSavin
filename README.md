@@ -10,11 +10,10 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 
 
 ## About:<br>
-- 👯 I'm looking to collaborate on interesting project as front-end developer(react) or as Gopher<br>
-- 👯 also i'm looking for mates to improve speaking & writing in English (b2+)<br>
+- 👯 I'm looking to collaborate on interesting project as React developer or as Gopher<br>
+- 👯 also i'm looking for mates to improve English skills<br>
 - 💬 Ask me about stackoverflow driven development <br>
 - 💬 Dont ask me about OOP advantages  (joke, but...)  <br>
-- 📫 How to reach me: write me on tg:@funnymagnett<br>
 - ⚡ Fun fact: sphynx cat lover <br>
 <hr>
 
