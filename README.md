@@ -18,7 +18,7 @@ Linkedin: www.linkedin.com/in/al-savin <br>
 - ❤️ also i'm looking for mates to improve English skills<br>
 - 📖 Ask me about stackoverflow driven development <br>
 - 💬 Dont ask me about OOP advantages  (joke, but...)  <br>
-- ⚡ Fun fact: sphynx cat lover <br>
+- 🐈 Fun fact: sphynx cat lover <br>
 <hr>
 
 <!-- If you're using "main" as default branch -->
