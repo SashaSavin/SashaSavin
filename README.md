@@ -1,8 +1,6 @@
 
 ### 👋👋👋
 
-
-
  ![](https://komarev.com/ghpvc/?username=SashaSavin&style=flat-square)
  
 
