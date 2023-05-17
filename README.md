@@ -1,6 +1,8 @@
 
+
 ![](https://komarev.com/ghpvc/?username=SashaSavin&style=flat-square)
-### 👋👋👋
+## Skills:
+[![My Skills](https://skillicons.dev/icons?i=ts,react,scss,tailwind,figma,materialui,nextjs,postgres,py,vite,webpack&perline=5)](https://skillicons.dev)
  
  
 ## Connect with me:<br>
