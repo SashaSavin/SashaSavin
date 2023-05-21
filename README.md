@@ -1,6 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=SashaSavin&style=flat-square)
 
+[![Metrics](https://github.com/SashaSavin/SashaSavin/actions/workflows/main.yml/badge.svg)](https://github.com/SashaSavin/SashaSavin/actions/workflows/main.yml)
+
 ![Metrics](https://github.com/SashaSavin/SashaSavin/blob/main/github-metrics.svg)
 
 ## Skills:
