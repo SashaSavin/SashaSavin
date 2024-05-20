@@ -6,7 +6,7 @@
 ![Metrics](https://github.com/SashaSavin/SashaSavin/blob/main/github-metrics.svg)
 
 ## Skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,react,scss,tailwind,figma,materialui,nextjs,postgres,py,vite,webpack&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,scss,tailwind,figma,materialui,nextjs,postgres,py,vite,webpack&perline=5)](https://skillicons.dev)
  
  <hr>
 
