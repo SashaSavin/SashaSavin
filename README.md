@@ -14,7 +14,7 @@
 
 ## Connect with me:<br>
 
-Telegram: @funnymagnett <br>
+Telegram: @savinyouknow <br>
 G-mail: alexsavin277@gmail.com <br>
 Linkedin: www.linkedin.com/in/al-savin <br>
 <hr>
